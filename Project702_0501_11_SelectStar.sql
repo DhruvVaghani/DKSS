@@ -1,0 +1,5 @@
+USE BUDT702_Project_0501_11
+SELECT * FROM [DKSS.UmdStat]
+SELECT * FROM [DKSS.Season]
+SELECT * FROM [DKSS.OpponentStat]
+SELECT * FROM [DKSS.Game]
